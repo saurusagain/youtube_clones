@@ -99,7 +99,7 @@ Follow these steps to run the application locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/adrianhajdin/project_youtube_clone](https://github.com/saurusagain/youtube_clones).git
+git clone https://github.com/saurusagain/youtube_clones.git
 cd youtube_clones
 ```
 
