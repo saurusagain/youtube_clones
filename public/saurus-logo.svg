@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="60" height="45">
+  <defs>
+    <linearGradient id="saurusGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF0000" />
+      <stop offset="100%" stop-color="#C00000" />
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#FF0000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <!-- YouTube-style curved badge -->
+  <rect x="8" y="16" width="144" height="88" rx="26" fill="url(#saurusGrad)" filter="url(#glow)"/>
+  
+  <!-- Stylized Play Button / Saurus Jaw Motif -->
+  <!-- Main white play triangle -->
+  <polygon points="65,38 112,60 65,82" fill="#FFFFFF"/>
+  <!-- Inner dinosaur eye / notch detail -->
+  <circle cx="78" cy="52" r="3.5" fill="#C00000"/>
+  <!-- Top crest / spine cutouts -->
+  <path d="M45,26 L55,16 L65,26 L75,16 L85,26" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.85"/>
+</svg>
