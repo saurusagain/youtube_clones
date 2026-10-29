@@ -99,8 +99,8 @@ Follow these steps to run the application locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/adrianhajdin/project_youtube_clone.git
-cd project_youtube_clone
+git clone [https://github.com/adrianhajdin/project_youtube_clone](https://github.com/saurusagain/youtube_clones).git
+cd youtube_clones
 ```
 
 ### 2. Configure Environment Variables
